@@ -1,6 +1,6 @@
 # Teste Tchenique FullStack (Application de gestion de tâche)
 ## Nouria Ait Kheddache 
-## Tachniques utilisé: 
+## Technologies utilisé: 
 * Java springBoot / postgresSQL/ liquibase/ Resat/ mMterial UI
 # Lancement de projet 
 ## BackEnd  (task)
